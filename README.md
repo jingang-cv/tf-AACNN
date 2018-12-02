@@ -20,3 +20,7 @@ IEEE Conference on Computer Vision and Pattern Recognition Workshop, ([NTIRE 201
 ## Inference_Model
 * bash test.sh #NUM_GPU
 * For evaluation : run test_psnr.m & test_ssim.m on Matlab
+
+## To Do
+* Add auxilary classifier loss
+* Replace BN in discriminator with SN
